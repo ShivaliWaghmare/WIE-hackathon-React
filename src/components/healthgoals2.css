@@ -1,0 +1,45 @@
+.healthgoals2-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  margin-top: var(--dl-space-space-halfunit);
+  align-items: flex-start;
+  border-radius: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-white);
+}
+.healthgoals2-text {
+  font-size: 20px;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+}
+.healthgoals2-textinput {
+  font-size: 20px;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+}
+.healthgoals2-text1 {
+  font-size: 20px;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.healthgoals2-textinput1 {
+  width: 341px;
+  height: 38px;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.healthgoals2-button {
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.healthgoals2-root-class-name {
+  margin-top: var(--dl-space-space-twounits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+}

@@ -1,0 +1,41 @@
+.followers-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.followers-container1 {
+  width: 100%;
+  height: 935px;
+  display: flex;
+  position: relative;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-style: hidden;
+  border-width: 1px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url("/external/untitled%20design%20(2)-1500w.webp");
+}
+.followers-text {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  width: 222px;
+  height: 62px;
+  padding: var(--dl-space-space-unit);
+  font-size: 35px;
+  align-self: center;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.followers-text2 {
+  color: var(--dl-color-vr-colors-yellowwww);
+}

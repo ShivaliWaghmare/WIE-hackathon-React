@@ -1,0 +1,89 @@
+.about-us-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-lightteal);
+}
+.about-us-container1 {
+  width: 924px;
+  height: 84px;
+  display: flex;
+  align-self: center;
+  box-shadow: 13px 10px 10px 0px #d4d4d4;
+  margin-top: var(--dl-space-space-unit);
+  align-items: flex-start;
+  border-color: var(--dl-color-vr-colors-darkgreen);
+  border-style: hidden;
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.about-us-text {
+  fill: var(--dl-color-vr-colors-yellowwww);
+  color: var(--dl-color-vr-colors-yellowwww);
+  padding: var(--dl-space-space-halfunit);
+  font-size: 40px;
+  align-self: center;
+  font-style: normal;
+  margin-top: var(--dl-space-space-halfunit);
+  font-family: "Inter";
+  font-weight: 600;
+  line-height: 1.15;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  text-transform: none;
+  text-decoration: none;
+}
+.about-us-text03 {
+  fill: var(--dl-color-success-300);
+  color: var(--dl-color-success-300);
+  padding: var(--dl-space-space-halfunit);
+  font-size: 30px;
+  align-self: center;
+  font-style: normal;
+  margin-top: var(--dl-space-space-threeunits);
+  text-align: center;
+  font-family: "Arial";
+  font-weight: 700;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  margin-right: var(--dl-space-space-oneandhalfunits);
+}
+.about-us-container2 {
+  width: 341px;
+  height: 112px;
+  display: flex;
+  align-self: flex-end;
+  margin-top: 0px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.about-us-navlink {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  width: 230px;
+  height: 71px;
+  align-self: flex-start;
+  text-align: center;
+  border-color: var(--dl-color-vr-colors-darkgreen);
+  border-width: 5px;
+  margin-right: 0px;
+  border-radius: 20px;
+  text-decoration: none;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.about-us-text07 {
+  fill: var(--dl-color-vr-colors-yellowwww);
+  color: var(--dl-color-vr-colors-yellowwww);
+  font-size: 23px;
+  font-style: normal;
+  font-family: "Arial";
+  font-weight: 700;
+}

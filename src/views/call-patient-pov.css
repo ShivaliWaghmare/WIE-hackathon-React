@@ -1,0 +1,36 @@
+.call-patient-pov-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-black);
+}
+.call-patient-pov-container1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.call-patient-pov-text {
+  fill: var(--dl-color-vr-colors-yellowwww);
+  color: var(--dl-color-vr-colors-yellowwww);
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  margin-left: var(--dl-space-space-oneandhalfunits);
+}
+.call-patient-pov-video {
+  width: 100%;
+  height: 604px;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+}
+.call-patient-pov-container2 {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}

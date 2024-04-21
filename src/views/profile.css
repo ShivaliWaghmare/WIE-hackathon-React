@@ -1,0 +1,198 @@
+.profile-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.profile-container01 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-beige);
+}
+.profile-container02 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.profile-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.profile-container04 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.profile-container05 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.profile-container06 {
+  flex: 0 0 auto;
+  width: 1152px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.profile-container07 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile-text {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  font-size: 30px;
+  font-style: normal;
+  margin-top: var(--dl-space-space-threeunits);
+  font-weight: 700;
+  margin-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.profile-container08 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile-container09 {
+  width: 100%;
+  height: 193px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.profile-text01 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  font-size: 32px;
+  align-self: flex-start;
+  font-style: Semi Bold;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 120px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-text02 {
+  color: #ffffff;
+}
+.profile-text03 {
+  color: var(--dl-color-vr-colors-yellowwww);
+}
+.profile-container10 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile-container11 {
+  width: 571px;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.profile-container12 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+}
+.profile-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.profile-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: center;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.profile-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: center;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.profile-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: center;
+  font-style: Semi Bold;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.profile-text11 {
+  color: rgba(255, 255, 255, 1);
+}
+.profile-text12 {
+  color: rgba(252, 217, 97, 1);
+}

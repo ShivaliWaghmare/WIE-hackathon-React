@@ -1,0 +1,102 @@
+.login-comp-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.login-comp-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  justify-content: center;
+}
+.login-comp-button {
+  padding: var(--dl-space-space-oneandhalfunits);
+  font-style: normal;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-twounits);
+  margin-right: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.login-comp-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.login-comp-container3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.login-comp-textinput {
+  color: var(--dl-color-gray-white);
+  font-size: 20px;
+  align-self: flex-end;
+  margin-top: var(--dl-space-space-unit);
+  border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-vr-colors-teal);
+}
+.login-comp-input {
+  color: var(--dl-color-gray-white);
+  font-size: 20px;
+  align-self: flex-end;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: var(--dl-color-vr-colors-lightteal);
+}
+.login-comp-button1 {
+  color: var(--dl-color-gray-black);
+  align-self: flex-end;
+  margin-top: var(--dl-space-space-unit);
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 30px;
+  margin-bottom: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: var(--dl-color-vr-colors-blueeee);
+}
+.login-comp-container4 {
+  width: auto;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.login-comp-text {
+  color: var(--dl-color-gray-white);
+  align-self: stretch;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.login-comp-text1 {
+  color: var(--dl-color-custom-bluee);
+  align-self: center;
+  text-decoration: none;
+}
+@media(max-width: 1200px) {
+  .login-comp-input {
+    margin-top: var(--dl-space-space-unit);
+    margin-bottom: unit;
+  }
+}
+@media(max-width: 479px) {
+  .login-comp-container4 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}

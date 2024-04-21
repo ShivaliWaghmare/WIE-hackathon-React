@@ -1,0 +1,325 @@
+.medical-insurance-container {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-fourunits);
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-beige);
+}
+.medical-insurance-container1 {
+  width: 1343px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.medical-insurance-text {
+  margin: var(--dl-space-space-unit);
+  padding: var(--dl-space-space-unit);
+  font-size: 40px;
+  align-self: center;
+}
+.medical-insurance-text01 {
+  color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-text02 {
+  color: #fcd961;
+  font-style: normal;
+  font-weight: 800;
+}
+.medical-insurance-container2 {
+  width: auto;
+  height: 69px;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  border-color: var(--dl-color-vr-colors-darkgreen);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-text03 {
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+.medical-insurance-text04 {
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+}
+.medical-insurance-text06 {
+  fill: var(--dl-color-vr-colors-yellowwww);
+  color: var(--dl-color-vr-colors-yellowwww);
+  width: 1328px;
+  padding: var(--dl-space-space-unit);
+  font-size: 3em;
+  align-self: center;
+  text-align: center;
+}
+.medical-insurance-container3 {
+  width: auto;
+  height: 265px;
+  margin: var(--dl-space-space-unit);
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: flex-start;
+}
+.medical-insurance-feature-card {
+  width: auto;
+  display: flex;
+  opacity: 0.8;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #8c8484;
+  margin-top: 0px;
+  transition: 0.3s;
+  align-items: flex-start;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 20px;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-feature-card:hover {
+  transform: scale(1.02);
+}
+.medical-insurance-feature-card:active {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-text07 {
+  fill: var(--dl-color-vr-colors-beige);
+  color: var(--dl-color-vr-colors-beige);
+  margin: var(--dl-space-space-unit);
+  align-self: center;
+  text-align: center;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-link {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 700;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-link:hover {
+  fill: var(--dl-color-gray-white);
+  color: var(--dl-color-gray-white);
+  background-color: var(--dl-color-gray-black);
+}
+.medical-insurance-feature-card1 {
+  width: 374px;
+  margin: var(--dl-space-space-twounits);
+  display: flex;
+  opacity: 0.8;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #8c8484;
+  transition: 0.3s;
+  align-items: flex-start;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-feature-card1:hover {
+  transform: scale(1.02);
+}
+.medical-insurance-feature-card1:active {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-text10 {
+  fill: var(--dl-color-vr-colors-beige);
+  color: var(--dl-color-vr-colors-beige);
+  width: 341px;
+  margin: var(--dl-space-space-unit);
+  align-self: center;
+  text-align: center;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-link1 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 700;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-link1:hover {
+  fill: var(--dl-color-gray-white);
+  color: var(--dl-color-gray-white);
+  background-color: var(--dl-color-gray-black);
+}
+.medical-insurance-feature-card2 {
+  width: 269px;
+  height: auto;
+  margin: var(--dl-space-space-twounits);
+  display: flex;
+  opacity: 0.8;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #8c8484;
+  transition: 0.3s;
+  align-items: flex-start;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-feature-card2:hover {
+  transform: scale(1.02);
+}
+.medical-insurance-feature-card2:active {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-text11 {
+  fill: var(--dl-color-vr-colors-beige);
+  color: var(--dl-color-vr-colors-beige);
+  width: 223px;
+  font-size: 1.5em;
+  align-self: center;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.medical-insurance-link2 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 700;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-link2:hover {
+  fill: var(--dl-color-gray-white);
+  color: var(--dl-color-gray-white);
+  background-color: var(--dl-color-gray-black);
+}
+.medical-insurance-container4 {
+  width: auto;
+  height: 187px;
+  display: flex;
+  align-items: flex-start;
+}
+.medical-insurance-feature-card3 {
+  width: 308px;
+  height: 100%;
+  margin: var(--dl-space-space-unit);
+  display: flex;
+  opacity: 0.8;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #8c8484;
+  transition: 0.3s;
+  align-items: flex-start;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-feature-card3:hover {
+  transform: scale(1.02);
+}
+
+.medical-insurance-text12 {
+  fill: var(--dl-color-vr-colors-beige);
+  color: var(--dl-color-vr-colors-beige);
+  width: 201px;
+  height: 25px;
+  font-size: 22px;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-link3 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 700;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-link3:hover {
+  fill: var(--dl-color-gray-white);
+  color: var(--dl-color-gray-white);
+  background-color: var(--dl-color-gray-black);
+}
+.medical-insurance-feature-card4 {
+  width: 307px;
+  height: 100%;
+  margin: var(--dl-space-space-twounits);
+  display: flex;
+  opacity: 0.8;
+  padding: var(--dl-space-space-threeunits);
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #8c8484;
+  transition: 0.3s;
+  align-items: flex-start;
+  padding-top: 48px;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-feature-card4:hover {
+  transform: scale(1.02);
+}
+
+.medical-insurance-text15 {
+  fill: var(--dl-color-vr-colors-beige);
+  color: var(--dl-color-vr-colors-beige);
+  width: 231px;
+  height: 35px;
+  font-size: 22.7px;
+  background-color: var(--dl-color-vr-colors-darkgreen);
+}
+.medical-insurance-link4 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  align-self: center;
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 700;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.medical-insurance-link4:hover {
+  fill: var(--dl-color-gray-white);
+  color: var(--dl-color-gray-white);
+  background-color: var(--dl-color-gray-black);
+}

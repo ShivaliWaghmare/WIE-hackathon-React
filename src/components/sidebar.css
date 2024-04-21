@@ -1,0 +1,251 @@
+.sidebar-sidebar {
+  width: auto;
+  height: 1000px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-twounits);
+  margin-right: 0px;
+  padding-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-lightgreen);
+}
+.sidebar-icon {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  width: 50%;
+  height: 79px;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.sidebar-text {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.sidebar-navlink {
+  display: contents;
+}
+.sidebar-container {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.sidebar-container1 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: row;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.sidebar-icon02 {
+  width: 24px;
+  height: 24px;
+  align-self: center;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.sidebar-text1 {
+  font-size: 20px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  background-color: var(--dl-color-vr-colors-lightgreen);
+}
+.sidebar-text1:hover {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.sidebar-navlink1 {
+  display: contents;
+}
+.sidebar-container2 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.sidebar-container3 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.sidebar-icon04 {
+  width: 24px;
+  height: 24px;
+  align-self: center;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.sidebar-text2 {
+  font-size: 20px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  background-color: var(--dl-color-vr-colors-lightgreen);
+}
+.sidebar-text2:hover {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.sidebar-navlink2 {
+  display: contents;
+}
+.sidebar-container4 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+}
+.sidebar-container5 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+  padding-right: var(--dl-space-space-threeunits);
+  justify-content: flex-start;
+}
+.sidebar-icon06 {
+  width: 24px;
+  height: 24px;
+  align-self: center;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.sidebar-text3 {
+  font-size: 20px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  background-color: var(--dl-color-vr-colors-lightgreen);
+}
+.sidebar-text3:hover {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.sidebar-link {
+  display: contents;
+}
+.sidebar-container6 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+.sidebar-container7 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-threeunits);
+  justify-content: flex-start;
+}
+.sidebar-container8 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 29px;
+  display: flex;
+  transition: 0.3s;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  justify-content: flex-start;
+}
+.sidebar-container8:hover {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.sidebar-icon09 {
+  width: 24px;
+  height: 24px;
+  align-self: center;
+}
+.sidebar-text4 {
+  width: auto;
+  font-size: 20px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 600;
+  margin-left: var(--dl-space-space-halfunit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-threeunits);
+  background-color: var(--dl-color-vr-colors-lightgreen);
+}
+.sidebar-text4:hover {
+  background-color: var(--dl-color-vr-colors-yellowwww);
+}
+.sidebar-root-class-name {
+  width: auto;
+  height: 1800px;
+  margin-right: 80px;
+  background-color: var(--dl-color-vr-colors-lightgreen);
+}
+.sidebar-root-class-name1 {
+  width: auto;
+  height: 100%;
+  margin-right: 80px;
+}
+@media(max-width: 1200px) {
+  .sidebar-sidebar {
+    height: 878px;
+  }
+  .sidebar-container1 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .sidebar-container3 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .sidebar-text2 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .sidebar-container5 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .sidebar-icon06 {
+    z-index: 100;
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+  }
+  .sidebar-text3 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .sidebar-text4 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+  }
+}

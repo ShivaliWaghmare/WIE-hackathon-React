@@ -1,0 +1,37 @@
+.chatroom-search-bar-container {
+  width: 321px;
+  height: 68px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: var(--dl-color-vr-colors-darkgreen);
+  border-width: 8px;
+  border-radius: 30px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: var(--dl-color-vr-colors-lightteal);
+}
+.chatroom-search-bar-icon {
+  fill: var(--dl-color-vr-colors-yellowwww);
+  width: 39px;
+  height: 20px;
+  margin-top: var(--dl-space-space-unit);
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.chatroom-search-bar-text {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  color: var(--dl-color-vr-colors-darkgreen);
+  font-size: 23px;
+  align-self: center;
+  font-style: normal;
+  font-weight: 600;
+  margin-left: 0px;
+}
+.chatroom-search-bar-root-class-name {
+  margin-left: var(--dl-space-space-unit);
+}
+.chatroom-search-bar-root-class-name1 {
+  align-self: center;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+}
