@@ -32,6 +32,10 @@
   border-radius: 20px;
   margin-bottom: var(--dl-space-space-twounits);
   background-color: var(--dl-color-vr-colors-lightgreen);
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 .post-comp-button:hover {
   fill: var(--dl-color-gray-white);
