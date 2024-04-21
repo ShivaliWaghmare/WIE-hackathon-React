@@ -8,13 +8,6 @@
   justify-content: flex-start;
   background-color: #f5f2eb;
 }
-.home-container1 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: flex-start;
-}
 .home-container2 {
   flex: 0 0 auto;
   width: auto;

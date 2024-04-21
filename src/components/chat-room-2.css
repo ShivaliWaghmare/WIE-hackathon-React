@@ -11,6 +11,9 @@
   border-radius: 30px;
   flex-direction: row;
   justify-content: flex-start;
+  margin-top: 16px;
+  margin-left: 32px;
+  background-color: white;
 }
 .chat-room-2-icon {
   fill: var(--dl-color-vr-colors-darkgreen);

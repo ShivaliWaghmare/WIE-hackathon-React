@@ -22,6 +22,9 @@
   background-size: cover;
   justify-content: flex-start;
   background-image: url("/external/untitled%20design%20(2)-1500w.webp");
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 .followers-text {
   fill: var(--dl-color-vr-colors-darkgreen);

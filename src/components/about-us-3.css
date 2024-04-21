@@ -5,6 +5,7 @@
   position: relative;
   align-items: flex-start;
   flex-direction: column;
+  margin: auto;
 }
 .about-us-3-text {
   align-self: center;

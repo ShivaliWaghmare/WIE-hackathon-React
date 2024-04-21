@@ -1,7 +1,7 @@
 .about-us-1-container {
   width: 1233px;
   height: 115px;
-  margin: var(--dl-space-space-twounits);
+  margin: auto;
   display: flex;
   position: relative;
   box-shadow: 25px 20px 10px 0px #d4d4d4;
@@ -13,6 +13,8 @@
   flex-direction: column;
   justify-content: flex-start;
   background-color: var(--dl-color-vr-colors-beige);
+  margin-top: 16px;
+  margin-bottom: 32px;
 }
 .about-us-1-text {
   fill: var(--dl-color-gray-black);

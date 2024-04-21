@@ -78,6 +78,9 @@
   border-radius: 20px;
   text-decoration: none;
   background-color: var(--dl-color-vr-colors-darkgreen);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .about-us-text07 {
   fill: var(--dl-color-vr-colors-yellowwww);
