@@ -30,6 +30,9 @@ const ChatRoomMessageBar = (props) => {
           className=""
         ></path>
       </svg>
+      <svg viewBox="0 0 1024 1024" className="chat-room-message-bar-icon6">
+        <path d="M86 896v-298l640-86-640-86v-298l896 384z" className=""></path>
+      </svg>
     </div>
   )
 }

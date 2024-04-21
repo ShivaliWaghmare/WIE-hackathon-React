@@ -1,37 +1,53 @@
-.chatroom-search-bar-container {
-  width: 321px;
+.chat-room-message-bar-container {
+  width: 915px;
   height: 68px;
   display: flex;
   position: relative;
-  align-items: flex-start;
-  border-color: var(--dl-color-vr-colors-darkgreen);
-  border-width: 8px;
-  border-radius: 30px;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 40px;
+  margin-bottom: var(--dl-space-space-threeunits);
   flex-direction: row;
   justify-content: flex-start;
-  background-color: var(--dl-color-vr-colors-lightteal);
+  background-color: var(--dl-color-vr-colors-beige);
 }
-.chatroom-search-bar-icon {
-  fill: var(--dl-color-vr-colors-yellowwww);
-  width: 39px;
-  height: 20px;
-  margin-top: var(--dl-space-space-unit);
-  margin-left: var(--dl-space-space-unit);
-  margin-bottom: var(--dl-space-space-unit);
-}
-.chatroom-search-bar-text {
+.chat-room-message-bar-icon {
   fill: var(--dl-color-vr-colors-darkgreen);
-  color: var(--dl-color-vr-colors-darkgreen);
-  font-size: 23px;
-  align-self: center;
-  font-style: normal;
-  font-weight: 600;
-  margin-left: 0px;
-}
-.chatroom-search-bar-root-class-name {
+  width: 51px;
+  height: var(--dl-size-size-small);
   margin-left: var(--dl-space-space-unit);
 }
-.chatroom-search-bar-root-class-name1 {
-  align-self: center;
-  margin-left: var(--dl-space-space-oneandhalfunits);
+.chat-room-message-bar-icon2 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  width: 40px;
+  height: 46px;
+  margin-left: var(--dl-space-space-unit);
+}
+.chat-room-message-bar-textinput {
+  width: 653px;
+  height: 44px;
+  margin-left: var(--dl-space-space-unit);
+  border-radius: 20px;
+}
+.chat-room-message-bar-icon4 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  width: 54px;
+  height: 46px;
+  margin-left: var(--dl-space-space-halfunit);
+}
+.chat-room-message-bar-icon6 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  width: 39px;
+  height: 48px;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-unit);
+}
+.chat-room-message-bar-root-class-name {
+  top: var(--dl-space-space-sixunits);
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
 }
