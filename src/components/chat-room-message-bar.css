@@ -1,6 +1,6 @@
 .chat-room-message-bar-container {
-  width: 868px;
-  height: 61px;
+  width: 915px;
+  height: 68px;
   display: flex;
   position: relative;
   align-items: center;
@@ -35,6 +35,13 @@
   width: 54px;
   height: 46px;
   margin-left: var(--dl-space-space-halfunit);
+}
+.chat-room-message-bar-icon6 {
+  fill: var(--dl-color-vr-colors-darkgreen);
+  width: 39px;
+  height: 48px;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-unit);
 }
 .chat-room-message-bar-root-class-name {
   top: var(--dl-space-space-sixunits);
